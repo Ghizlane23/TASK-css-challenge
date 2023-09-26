@@ -1,4 +1,55 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+body {
+    background-color: rgb(60, 45, 74);
+}
+ .pic{
+    width : 200px;
+    margin-top: 50px;
+    border-radius:5%;
+ }
+ .container{
+    text-align: center;
+ }
+ .text1 {
+    font-family: "Italianno";
+    color: white;
+    font-size: 60px;
+ }
+ .text2{
+    color: white;
+    
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
     font-family: 'Pacifico';
 }
 
@@ -25,13 +76,13 @@ font-family: 'Pacifico';
     margin-top: 10px;
     width: 20%;
     /* height: 60%; */
-border-radius: 8%;
+/* border-radius: 8%; */
     /* background-color: red; */
-}
-.adj{
+/* } */
+/* .adj{
     font-weight: bold;
     color: white;
     text-align: center;
     font-style: italic;
 
-}
+/* } */ 
